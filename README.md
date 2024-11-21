@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rajdipk
 - 👀 I’m interested in how the web works along with what more could be done with it. How to bring effecient evolution for benefit of human.
-- 🌱 I’m currently learning Web development along with electrical engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter
 - 📫 reach me rajdipesser@gmail.com
 
 <!---
